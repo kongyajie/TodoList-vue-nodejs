@@ -16,12 +16,27 @@ npm install
 cd TodoList-server-side
 npm install
 ```
+下载安装mysql
+
+[mysql下载](https://www.mysql.com/downloads/)
+![mysql安装图1](http://olrqxpod7.bkt.clouddn.com/mysql_download_1.png "mysql安装图1")
+![mysql安装图2](http://olrqxpod7.bkt.clouddn.com/mysql_download_2.png "mysql安装图2")
+![mysql安装图3](http://olrqxpod7.bkt.clouddn.com/mysql_download_3.png "mysql安装图3")
+
+
+建立本地数据库
+```
+create database test;
+use test;
+create table todoList(id int auto_increment primary key, title char(30) not null);
+```
 
 ## Usage
 
 后端项目
 ```
 cd TodoList-server-side
+检查express_demo.js，确保connection连接的参数与安装mysql时设置一致
 node express_demo.js
 ```
 
