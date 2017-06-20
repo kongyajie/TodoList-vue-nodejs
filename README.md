@@ -25,6 +25,9 @@ npm install
 
 建立本地数据库
 ```
+安装完成后：
+mysql -u root -p
+输入安装结束时设置的密码，如111111
 create database test;
 use test;
 create table todoList(id int auto_increment primary key, title char(30) not null);
