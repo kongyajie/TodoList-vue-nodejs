@@ -1,2 +1,2 @@
-# TodoList-Vue-Node.js-MySQL-
-A todoList practice with Vue.js + Node.js + MySQL
+# TodoList-vue-nodejs
+A todoList practice with vue.js node.js mysql
