@@ -1,0 +1,16 @@
+{
+  "name": "todolist-client-side",
+  "version": "1.0.0",
+  "description": "A simple practice to bridge the gap between front-end and back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "vue": "^2.3.4"
+  }
+}
