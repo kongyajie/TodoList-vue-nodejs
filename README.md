@@ -16,9 +16,8 @@ npm install
 cd TodoList-server-side
 npm install
 ```
-下载安装mysql
+下载安装[mysql](https://www.mysql.com/downloads/)
 
-[mysql下载](https://www.mysql.com/downloads/)
 ![mysql安装图1](http://olrqxpod7.bkt.clouddn.com/mysql_download_1.png "mysql安装图1")
 ![mysql安装图2](http://olrqxpod7.bkt.clouddn.com/mysql_download_2.png "mysql安装图2")
 ![mysql安装图3](http://olrqxpod7.bkt.clouddn.com/mysql_download_3.png "mysql安装图3")
