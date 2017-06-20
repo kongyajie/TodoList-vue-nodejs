@@ -27,5 +27,6 @@ node express_demo.js
 
 前端项目
 ```
-在浏览器中打开index.html
+cd TodoList-client-side
+在浏览器中打开目录中的index.html
 ```
